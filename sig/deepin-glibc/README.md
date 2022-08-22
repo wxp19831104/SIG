@@ -30,7 +30,7 @@
 ### 加入方法：
 
 1. 在[sig-deepin-glibc](https://github.com/deepin-community/sig-deepin-glibc/issues)提交issues 说明想加入的原因
-2. 订阅邮件列表 [deepin-glibc](deepin-glibc@freelists.org)
+2. 订阅邮件列表 [deepin-glibc](https://www.freelists.org/list/deepin-glibc)
 
 加入之后会在邮件列表进行公示
 
